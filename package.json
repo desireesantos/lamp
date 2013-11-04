@@ -1,0 +1,14 @@
+{
+  "name": "JLamp",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node_modules/.bin/bower install"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "bower": "~1.2.7"
+  }
+}
