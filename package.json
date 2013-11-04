@@ -9,6 +9,8 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "bower": "~1.2.7"
+    "bower": "~1.2.7",
+    "narf": "~0.2.3",
+    "johnny-five": "~0.7.4"
   }
 }
