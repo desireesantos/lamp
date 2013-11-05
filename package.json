@@ -1,12 +1,12 @@
 {
   "name": "JLamp",
   "version": "2.0.0",
-  "description": "",
+  "description": "Control devices by voice with arduino + nodebots",
   "main": "index.js",
   "scripts": {
     "postinstall": "node_modules/.bin/bower install"
   },
-  "author": "",
+  "author": "Desiree Santos - @desisant",
   "license": "BSD",
   "dependencies": {
     "bower": "~1.2.7",
