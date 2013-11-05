@@ -16,4 +16,4 @@ To run:
 make && make run
 ```
 
-I need to say thanks for [Tramonta] (https://github.com/gtramontina) and [Bonat] (https://github.com/tanob) to support me all moments. 
+** I need to say thanks for [Tramonta] (https://github.com/gtramontina) and [Bonat] (https://github.com/tanob) to support me all moments. ** 
