@@ -8,8 +8,9 @@ To run:
 
 > First:
 ```
-Install [Node.js] (https://nodejs.org)
+Install Node.js
 ```
+[Node.js] (https://nodejs.org)
 
 > Second: 	
 ```bash
