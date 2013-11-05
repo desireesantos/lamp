@@ -7,9 +7,9 @@ To run:
 -------
 
 > First:
-```html
-Install Node.js <a href="http://node.js/">
-```
+
+Install [Node.js] (https://nodejs.org)
+
 
 > Second: 	
 ```bash
