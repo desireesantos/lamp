@@ -1,7 +1,7 @@
 Lamp 
 ==============
 Lamp V2 is an automation system to control by voice any devices,like lamp, using arduino. 
-The second version is dry, small and easy-to-use with [Nodebots.io] (http://nodebots.io/)
+The second version is dry, small and easy-to-use with [Node.js] (https://nodejs.org), [Nodebots.io] (http://nodebots.io/) and [Annyang] (https://www.talater.com/annyang/)
 
 To run:
 -------
