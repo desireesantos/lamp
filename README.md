@@ -10,7 +10,6 @@ To run:
 ```
 Install Node.js
 ```
-[Node.js] (https://nodejs.org)
 
 > Second: 	
 ```bash
