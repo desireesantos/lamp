@@ -8,7 +8,7 @@ To run:
 
 > First:
 ```
-Install Node.js
+You need to install Node.js
 ```
 
 > Second: 	
