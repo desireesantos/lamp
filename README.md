@@ -8,7 +8,7 @@ To run:
 
 > First:
 ```bash
-Install [Node.js] (https://nodejs.org)
+Install Node.js <a href="http://node.js/">
 ```
 
 > Second: 	
