@@ -7,9 +7,9 @@ To run:
 -------
 
 > First:
-
+```
 Install [Node.js] (https://nodejs.org)
-
+```
 
 > Second: 	
 ```bash
