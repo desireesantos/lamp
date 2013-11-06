@@ -5,7 +5,7 @@ board.on('ready', function() {
   var val = 0;
  
   this.pinMode( 13, 1 );
-  this.digitalWrite( 13, 1 );
+  this.digitalWrite( 13, 0);
   
   var self = this;
  

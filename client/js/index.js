@@ -3,7 +3,7 @@ define(['../components/jquery/jquery', '../components/annyang/annyang'], functio
 
   var toggle = $('#switch');
   toggle.bind('change', function () {
-    $.post(url + (toggle.is(':checked') ? 0 : 1));
+    $.post(url + (toggle.is(':checked') ? 1 : 0));
   });
 
   function turnOn(){ toggle.prop('checked', true).change(); }
