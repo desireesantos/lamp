@@ -13,4 +13,17 @@ You need to install Node.js
 make && make run
 ```
 
+> Commnands by voice:
+
+```html
+To turn <em>ON</em> :
+You need to say:  "Up" or "On"
+```
+
+```bash
+To turn <em>OFF</em> :
+You need to say:  "Down" or "Off"
+```
+
 ** I need to say thanks for [Tramonta] (https://github.com/gtramontina) and [Bonat] (https://github.com/tanob) to support me all moments. ** 
+
