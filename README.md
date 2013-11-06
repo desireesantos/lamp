@@ -13,7 +13,7 @@ You need to install Node.js
 make && make run
 ```
 
-> Commnands by voice:
+> Commands by voice:
 
 ```
 You have 2 options to turn ON: "Up" or "On"
